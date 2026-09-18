@@ -9,12 +9,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The Input is via the 8 switches, where [0 to 5] are binary inputs for both nominator and denominator and [6] is a hold, [7] is the toggle to toggle nominator/Denominator.
 
 ## How to test
 
-Explain how to use your project
+(Will be explained later)
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+N/A
+
+More Info will follow. - OzelHD
