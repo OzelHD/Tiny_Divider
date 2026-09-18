@@ -19,6 +19,7 @@ jobs:
           pdk: ihp-sg13g2
 
   viewer:
+    if: ${{ github.event.repository.has_pages }}
     needs: gds
     runs-on: ubuntu-24.04
     permissions:
